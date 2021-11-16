@@ -1,0 +1,7 @@
+INSERT INTO table_film (title, author, country, release_Date, cinematography, type) VALUES ('Harry Potter and the Philosophers Stone', 'J. K. Rowling', 'United Kingdom', '04 November 2002', 'John Seale', 'film');
+INSERT INTO table_film (title, author, country, release_Date, cinematography, type) VALUES ('Harry Potter and the Chamber Of Secrets', 'J. K. Rowling', 'United Kingdom', '23 May 2004', 'John Seale', 'film');
+INSERT INTO table_film (title, author, country, release_Date, cinematography, type) VALUES ('Harry Potter and the Prisoner of Azkaban', 'J. K. Rowling', 'United Kingdom', '05 November 2005', 'John Seale', 'film');
+INSERT INTO table_film (title, author, country, release_Date, cinematography, type) VALUES ('Harry Potter and the Goblet of Fire', 'J. K. Rowling', 'United Kingdom', '28 June 2007', 'John Seale', 'film');
+INSERT INTO table_film (title, author, country, release_Date, cinematography, type) VALUES ('Harry Potter and the Order of the Phoenix', 'J. K. Rowling', 'United Kingdom', '07 July 2009', 'John Seale', 'film');
+INSERT INTO table_film (title, author, country, release_Date, cinematography, type) VALUES ('Harry Potter and the Deathly Hallows Part One', 'J. K. Rowling', 'United Kingdom', '11 November 2010', 'John Seale', 'film');
+INSERT INTO table_film (title, author, country, release_Date, cinematography, type) VALUES ('Harry Potter and the Deathly Hallows Part Two', 'J. K. Rowling', 'United Kingdom', '07 July 2011', 'John Seale', 'film');
